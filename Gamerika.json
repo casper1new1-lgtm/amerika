@@ -42,6 +42,10 @@
     {
       "name": "system/nwindow.dll",
       "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/nwindow.dll"
+    },
+	{
+      "name": "systextures/Somik.utx",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/Somik.utx"
     }
 
   ]
