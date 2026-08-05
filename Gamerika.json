@@ -39,8 +39,8 @@
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
     },
     {
-      "name": "system/core.dll",
-      "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/core.dll"
+      "name": "system/nwindow.dll",
+      "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/nwindow.dll"
     }
 
   ]
