@@ -32,7 +32,7 @@
     },
     {
       "name": "system/skillgrp.dat",
-      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/skillgrp.dat"
+      "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/skillgrp.dat"
     },
     {
       "name": "system/user.ini",
@@ -49,6 +49,10 @@
 	{
       "name": "systextures/Somik.utx",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/Somik.utx"
+    },
+	{
+      "name": "systextures/L2UI.utx",
+      "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/L2UI.utx"
     }
 
   ]
