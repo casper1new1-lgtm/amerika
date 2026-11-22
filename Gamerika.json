@@ -53,6 +53,10 @@
     {
       "name": "system/skillgrp.dat",
       "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/skillgrp.dat"
+    },
+	{
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     }
 
 	
