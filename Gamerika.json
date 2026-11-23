@@ -32,6 +32,16 @@
 
 
   ],
+	
+  "protected_files": [
+    "LineageEffect.u",
+    "lineageeffect2a.u",
+    "LineageEffect3a.u",
+    "LineageSkillEffect.u",
+    "skillgrp.dat",
+    "user.ini"
+  ],
+	
   "files": [
 	  
 	{
