@@ -1,41 +1,36 @@
 {
-  "allowed_machine_guids": [
-    "6979n875-g123-o724-i968-f4562v22",
-	"52c90f9d-b4a3-4193-a319-fa01e6009a17",
-	"b59d3546-1ecf-49b8-aabf-7150b71f8dd3",
-	"a6961998-67f6-4882-a066-34e676a221bd",
-	"393723ca-dbc9-4a1c-bcad-b1d0bf4f9bfa",
-	"a5338693-fd7b-4891-a5a3-ec66bb3f561b",
-	"b6c80c9c-2ded-4e69-8959-8041379c2184",
-	"9fa3c604-8d80-47c1-b378-84a328ff7546",
-	"178c6a2a-82c4-4ad8-96d5-948d00bd7599",
-	"4af0f79a-c519-44e9-bf61-3ceb32788f18",
-	"5b59ac85-128d-45e6-a64e-280b0c4c3dc7",
-	"69b59ba7-5124-4db2-bce3-e4b4a48f3ac5",
-	"30868593-6c13-4dba-87c7-f7b343f0b66c",
-	"4a49f379-eb92-4391-a945-75f2a8001dd8",
-	"80fd51a1-fcf9-4a37-b816-9bd229b2d38c",
-	"cbb5c2ae-d015-4539-b1de-d9b059edb563",
-	"f0b99bc2-70ef-4ceb-bc00-2d32ed708ae4",
-	"2fc6214f-d5d6-4b25-9298-b92f6f54ccc1",
-	"0a7c2d75-9ffd-4e3c-91cd-0e557a185691",
-	"b01d0744-fa40-4fa7-9638-478492597bd6",
-	"6e6bcd93-bf0f-4b5c-b0f7-6df74ab7357c",
-	"0c8b7911-2729-4601-b359-ac24ba04d33e",
-	"9cbeae43-00dc-4649-8340-83e956c817ed",
-	"4c9090a8-e85c-4d01-88d7-0d799bf23508",
-	"ab3bd700-ac23-45e2-883a-b90a5b9eed61",
-	"e87d4b55-51c7-49c5-8fb3-380cb41cec80",
-	"6482d492-a709-40ed-8890-bc00fc79452d",
-	"8c1f2f1c-3f85-4746-b64f-5f48c3ec2634",
-	"ae2ddd84-963e-4a15-af16-c0dcde381c95",
-	"363345e3-3de2-4457-8662-a284cfc47757"
-
-	  
-
-
+  "allowed_codes": [
+    "FVUFM-RUUTZ-MSPPV-MONF2",
+    "WXGMM-3TU3M-MVRB6-Q7A7Q",
+    "SXFIV-ELGRM-GS446-R7EII",
+    "UUZEU-C4M63-KH2LJ-I4LSR",
+    "BQM5C-Q7KGD-AESSW-YDVX3",
+    "5NH4F-EJRIU-BTWH4-IHRAX",
+    "AWNIY-NAGYB-XV4SN-XXZSW",
+    "NQWMT-UEQDV-ZQSEE-AAMYR",
+    "B27PC-GRAAL-HYWBD-7L27H",
+    "PUVIT-Z72IG-SZHBQ-4BH56",
+    "3GNRT-JJFBC-NU5HX-WS54L",
+    "GA5DP-KYY3W-XR77S-UFN5C",
+    "LTLJ2-WHEI2-P6THX-TGRVZ",
+    "6HIY3-KH3UU-4S5GF-M7DM4",
+    "XBJRM-YB2UJ-QJ32N-UU4SS",
+    "NA4I3-OAHBB-HN7JU-OOS5N",
+    "DNZP4-AF6JE-NG2K5-PRD3H",
+    "ZJIIW-XFOR3-NSGD2-FQUXK",
+    "LA6KD-ILGPP-PJ7RE-J77TS",
+    "RC3V5-LZIVO-BVALZ-VE2VC",
+    "WLZXB-ZSQ3L-CVEW3-3S5YG",
+    "MYGNS-43QDP-QAD6Z-LFYWL",
+    "RMSR7-2XGEX-WAUIG-ORIMO",
+    "VRZYF-XACPQ-6R5SK-GNS5V",
+    "ZAV2G-W5PND-ZALUD-BLLEZ",
+    "MQ2FH-LJ2BT-UBQCB-A54MU",
+    "DQLFT-W53Q7-NAHEM-OXZQ3",
+    "BNYNL-H7MOC-JI47A-UKEAB",
+    "6QSCQ-6QXNV-5SYHU-XRDFZ",
+    "6BAUQ-EH5R7-PCYQZ-77SI7"
   ],
-	
   "protected_files": [
     "LineageEffect.u",
     "lineageeffect2a.u",
@@ -43,12 +38,10 @@
     "LineageSkillEffect.u",
     "skillgrp.dat",
     "user.ini",
-	"staticmeshes/LineageEffectsStaticmeshes2.usx"
+    "staticmeshes/LineageEffectsStaticmeshes2.usx"
   ],
-	
   "files": [
-	  
-	{
+    {
       "name": "system/LineageEffect.u",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect.u"
     },
@@ -68,21 +61,17 @@
       "name": "system/skillgrp.dat",
       "url": "https://github.com/casper1new1-lgtm/amerika/raw/refs/heads/main/skillgrp.dat"
     },
-	{
+    {
       "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
-	{
+    {
       "name": "staticmeshes/LineageEffectsStaticmeshes2.usx",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
     },
-	{
+    {
       "name": "Systextures/Somik.utx",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/Somik.utx"
     }
-	
-
-	
-
   ]
 }
